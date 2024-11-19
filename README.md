@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sean 
 
-Mobile Developer, going on an adventure to the digital world one step at a time. From building applications from the ground up to feature and continuously striving to improve skills and stay current with advancements in mobile development.   🍂
+Going on an adventure to the digital world one step at a time. From building applications from the ground up to feature and continuously striving to improve skills and stay current with advancements in mobile development and web development.   🍂
 <br/>
 <br/>
 
