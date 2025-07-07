@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sean 
 
-Going on an adventure to the digital world one step at a time. From building applications from the ground up to feature and continuously striving to improve skills and stay current with advancements in mobile development and web development.   🍂
+🚀 Going on an adventure into the world of digital design one sketch at a time. From modeling parts from the ground up to complex assemblies, I’m continuously striving to improve my CAD skills and stay current with advancements in SolidWorks and product design. 
 <br/>
 <br/>
 
@@ -10,5 +10,4 @@ Going on an adventure to the digital world one step at a time. From building app
 <br/>
 
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
